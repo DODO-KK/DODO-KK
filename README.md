@@ -13,12 +13,12 @@
 </p>
 
 <p align="center">
-  <sub>最新のニュースは SNS をご覧ください —
-  <a href="https://line.me/R/ti/p/@195whzkt">LINE</a> ·
-  <a href="https://www.facebook.com/people/DODO-KK/61596189341746/">Facebook</a> ·
-  <a href="https://wa.me/818047736897">WhatsApp</a> ·
-  <a href="https://x.com/dodokk_jp">X</a> ·
-  <a href="https://t.me/dodonetofficial">Telegram</a></sub>
+  <sub>最新のニュースは SNS をご覧ください</sub><br>
+  <a href="https://line.me/R/ti/p/@195whzkt"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/line-dark.svg"><img src="assets/social/line.svg" width="40" height="40" alt="LINE"></picture></a>&nbsp;
+  <a href="https://www.facebook.com/people/DODO-KK/61596189341746/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/facebook-dark.svg"><img src="assets/social/facebook.svg" width="40" height="40" alt="Facebook"></picture></a>&nbsp;
+  <a href="https://wa.me/818047736897"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/whatsapp-dark.svg"><img src="assets/social/whatsapp.svg" width="40" height="40" alt="WhatsApp"></picture></a>&nbsp;
+  <a href="https://x.com/dodokk_jp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/x-dark.svg"><img src="assets/social/x.svg" width="40" height="40" alt="X"></picture></a>&nbsp;
+  <a href="https://t.me/dodonetofficial"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social/telegram-dark.svg"><img src="assets/social/telegram.svg" width="40" height="40" alt="Telegram"></picture></a>
 </p>
 
 ## DODO株式会社について
@@ -199,7 +199,7 @@ DODO株式会社是日本的电信运营商（电信业务申报编号 A-04-2043
     <a href="https://dodo.ad.jp/contact/">お問い合わせ</a> ·
     <a href="https://dodo.ad.jp/term/">利用規約</a> ·
     <a href="https://dodo.ad.jp/private/">個人情報について</a><br>
-    AMD、Ryzen、EPYC は Advanced Micro Devices, Inc. の、Mac、Mac mini、Mac Studio は Apple Inc. の、Proxmox は Proxmox Server Solutions GmbH の商標です。<br>
+    AMD、Ryzen、EPYC は Advanced Micro Devices, Inc. の、Mac、Mac mini、Mac Studio は Apple Inc. の、Proxmox は Proxmox Server Solutions GmbH の商標です。LINE、Facebook、WhatsApp、X、Telegram ほか、記載の会社名・サービス名は各社の商標または登録商標です。<br>
     © DODO株式会社
   </sub>
 </p>
